@@ -1,3 +1,8 @@
+# Developed by Roberto Spadim - SPAEmpresarial - Brazil - roberto@spadim.com.br
+# 2017-10-09 - first version
+#
+#
+#
 import time
 import pandas as pd
 import numpy as np
